@@ -10,7 +10,7 @@ terraform {
     organization = "Snowflake_demos"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "gh-actions-demo-new"
     }
   }
 }
